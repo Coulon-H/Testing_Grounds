@@ -52,5 +52,17 @@
     "name" : "MONTAN James",
     "date" : "04-05-1982",
     "parente" : "Neveu"
+  },
+  {
+    "sexe" : "Masculin",
+    "name" : "OLUMBO Un",
+    "date" : "04-05-1999",
+    "parente" : "Neveu"
+  },
+  {
+    "sexe" : "Feminin",
+    "name" : "ONILLA Lae",
+    "date" : "04-05-1989",
+    "parente" : "Niece"
   }
 ]
