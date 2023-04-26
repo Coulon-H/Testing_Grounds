@@ -8,7 +8,7 @@
     "interet": 15000000,
     "moratoire": 15000000,
     "paye": 12,
-    "reste": 15000,
+    "reste": 15000
   },
   {
     "status": "23A5548911",
@@ -19,7 +19,7 @@
     "interet": 15000000,
     "moratoire": 15000000,
     "paye": 12,
-    "reste": 15000,
+    "reste": 15000
   },
   {
     "status": "23A5548911",
@@ -30,7 +30,7 @@
     "interet": 15000000,
     "moratoire": 15000000,
     "paye": 12,
-    "reste": 15000,
+    "reste": 15000
   },
   {
     "status": "23A5548911",
@@ -41,7 +41,7 @@
     "interet": 15000000,
     "moratoire": 15000000,
     "paye": 12,
-    "reste": 15000,
+    "reste": 15000
   },
   {
     "status": "23A5548911",
@@ -52,7 +52,7 @@
     "interet": 15000000,
     "moratoire": 15000000,
     "paye": 12,
-    "reste": 15000,
+    "reste": 15000
   },
   {
     "status": "23A5548911",
@@ -63,7 +63,7 @@
     "interet": 15000000,
     "moratoire": 15000000,
     "paye": 12,
-    "reste": 15000,
+    "reste": 15000
   },
   {
     "status": "23A5548911",
@@ -74,7 +74,7 @@
     "interet": 15000000,
     "moratoire": 15000000,
     "paye": 12,
-    "reste": 15000,
+    "reste": 15000
   },
   {
     "status": "23A5548911",
@@ -85,6 +85,6 @@
     "interet": 15000000,
     "moratoire": 15000000,
     "paye": 12,
-    "reste": 15000,
+    "reste": 15000
   }
 ]
